@@ -49,4 +49,7 @@ print(len(person))  # Output: 2
 
 animals = {'tiger', 'lion', 'tiger', 'cat'}
 print(len(animals))  # Output: 3
+
+
+    people changed
     
